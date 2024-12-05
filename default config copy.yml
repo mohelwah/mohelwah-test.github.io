@@ -1,25 +1,32 @@
 # Site Settings
-name: Mohelwah
-title: Mohelwah | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+# Site Settings
+name: Mohamed M.
+title: Mohamed M. | MLOps, DevOps, Python, Blockchain, Backend, and Fullstack Development
+description: Sharing insights, projects, and experiences in MLOps, Backend, Fullstack Development, Python, and more.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - MLOps
+  - DevOps
+  - Python
+  - Backend
+  - Fullstack
+  - React
+  - Blockchain
 show_hero: true
+
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
+  - title: Blog
+    url: /blog
+  - title: Portfolio
+    url: /portfolio
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+
+email: mohelwah@gmail.com
+
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,13 +36,10 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
+github_username: mohelwah
+linkedin_username: mohammed-abdelwahab
+twitter_username: mohelwah
+medium_username: mohelwah
 
 # Posts Settings
 show_time_bar: true
@@ -45,8 +49,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mohelwah.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
