@@ -7,7 +7,7 @@ description: Sharing insights, projects, and experiences in MLOps, Backend, Full
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/src/img/user" alt="Mohamed M." width="200">
+<img class="img-rounded" src="/assests/img/myImage" alt="Mohamed M." width="200">
 
 ## About Me
 

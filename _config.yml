@@ -19,7 +19,7 @@ menu:
   - title: About
     url: /about
   - title: Blog
-    url: /post
+    url: post
   - title: Portfolio
     url: /portfolio
   - title: Contact
